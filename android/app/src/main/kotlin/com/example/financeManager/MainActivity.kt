@@ -1,4 +1,4 @@
-package com.example.financeManager
+package com.mickeydrozd.financeManager
 
 import io.flutter.embedding.android.FlutterActivity
 
